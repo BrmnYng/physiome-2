@@ -1,0 +1,41 @@
+id: e/105
+Title: A Quantitative Model of Human Jejunal Smooth Muscle Cell Electrophysiology
+Abstract: null
+Description: "Encoded in CellML by Yong Cheng Poh\nNUS Graduate School for Integrative\
+  \ Sciences and Engineering and Department of Bioengineering, National University\
+  \ of Singapore\n\nModel Status\n\nThis CellML model represents the human jejunal\
+  \ smooth muscle cell of the small intestine, and describes four slow waves with\
+  \ a 10s period.  For more details, please refer to the  original paper, visit Computational\
+  \ Bioengineering Laboratory or contact the author, Yong Cheng.\n\nAbstract\n\nRecently,\
+  \ a number of ion channel mutations have been identified in the smooth muscle cells\
+  \ of the human jejunum. Although these are potentially significant in understanding\
+  \ diseases that are currently of unknown etiology, no suitable computational cell\
+  \ model exists to evaluate the effects of such mutations. Therefore, a biophysically\
+  \ based single cell model of human jejunal smooth muscle electrophysiology was developed.\
+  \ The resulting cellular description is able to reproduce experimentally recorded\
+  \ slow wave activity and produces realistic responses to a number of perturbations,\
+  \ providing a solid platform on which the causes of intestinal myopathies can be\
+  \ investigated.\n\nThe original publication reference is cited below:\n\nA Quantitative\
+  \ Model of Human Jejunal Smooth Muscle Cell Electrophysiology, Yong Cheng Poh, Alberto\
+  \ Corrias, Nicholas Cheng, Martin Lindsay Buist, 2012, \nPLoS ONE, 7(8): e42385.\
+  \ PubMed ID: 22912702"
+Thumbnails:
+- filename: poh_2012_lo.png
+  caption: 'Schematic overview of the hJSMC model: It contains the ionic conductances
+    and sub-cellular mechanisms that shape cellular electrical behaviour and intracellular
+    Ca2+ dynamics.'
+Keywords: null
+Authors: null
+Curators:
+- Orcid: 0000-0002-2605-5080
+  Name: Jonathan Karr
+- Orcid: 0000-0002-0962-961X
+  Name: Briman Yang
+- Orcid: XXXX-XXXX-XXXX-XXXX
+  Name: Wang Mak
+- Orcid: XXXX-XXXX-XXXX-XXXX
+  Name: Justin Wang
+Citations: null
+License: 'spdxID: MIT'
+Created: null
+Modified: null
